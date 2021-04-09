@@ -1,0 +1,9 @@
+C:\Users\s1072\source\repos\1072008_HW4_2\1072008_HW4_2\obj\Debug\1072008_HW4_2.csprojAssemblyReference.cache
+C:\Users\s1072\source\repos\1072008_HW4_2\1072008_HW4_2\obj\Debug\_1072008_HW4_2.Form1.resources
+C:\Users\s1072\source\repos\1072008_HW4_2\1072008_HW4_2\obj\Debug\_1072008_HW4_2.Properties.Resources.resources
+C:\Users\s1072\source\repos\1072008_HW4_2\1072008_HW4_2\obj\Debug\1072008_HW4_2.csproj.GenerateResource.cache
+C:\Users\s1072\source\repos\1072008_HW4_2\1072008_HW4_2\bin\Debug\1072008_HW4_2.exe.config
+C:\Users\s1072\source\repos\1072008_HW4_2\1072008_HW4_2\bin\Debug\1072008_HW4_2.exe
+C:\Users\s1072\source\repos\1072008_HW4_2\1072008_HW4_2\bin\Debug\1072008_HW4_2.pdb
+C:\Users\s1072\source\repos\1072008_HW4_2\1072008_HW4_2\obj\Debug\1072008_HW4_2.exe
+C:\Users\s1072\source\repos\1072008_HW4_2\1072008_HW4_2\obj\Debug\1072008_HW4_2.pdb
